@@ -1,16 +1,38 @@
 # fly_away
 
-A new Flutter project.
+FlyAway is a 2D Flutter-based game that features a *tap-to-fly* gameplay mechanic, where players control a character to avoid obstacles and try to achieve the highest score. The game includes a customizable main character and various challenging levels.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- **Simple Controls**: Players tap the screen to control the character's movement.
+- **Character Customization**: Players can change the main character's orientation to face up, sideways, or down.
+- **Smooth Animations**: The game uses sprites with smooth animations for a more enjoyable gaming experience.
+- **High Scores**: Compete to achieve the highest score by avoiding obstacles as much as possible.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following tools installed to run this project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Dart**: Dart is included with Flutter installation.
+- **Editor**: You can use editors like **VS Code**, **Android Studio**, or **IntelliJ**.
+
+## Project Structure
+
+lib/: Main folder for the application's source code.
+
+- main.dart: Entry point of the application.
+
+- player.dart: Code for the player character, including animations and movements.
+
+- game.dart: Contains the main game logic and level management.
+
+assets/: Folder containing images and sprites used in the game.
+
+- jokowiUp.png: Sprite for the character facing up.
+
+- jokowiMid.png: Sprite for the character facing sideways.
+
+- jokowiDown.png: Sprite for the character facing down.
+
+pubspec.yaml: Configuration file that includes dependencies and assets used in the project.
