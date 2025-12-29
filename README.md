@@ -9,10 +9,8 @@ FlyAway is a 2D Flutter-based game that features a *tap-to-fly* gameplay mechani
 - **Smooth Animations**: The game uses sprites with smooth animations for a more enjoyable gaming experience.
 - **High Scores**: Compete to achieve the highest score by avoiding obstacles as much as possible.
 
-**Video Demo**: [Watch]([https://flutter.dev/docs/get-started/install](https://drive.google.com/file/d/126dAEx1OvT1P95BTfZiD-WQCP44UE7NQ/view?usp=drive_link))
+**Video Demo**: [Watch](https://drive.google.com/file/d/126dAEx1OvT1P95BTfZiD-WQCP44UE7NQ/view?usp=drive_link) 
 
-
-https://drive.google.com/file/d/126dAEx1OvT1P95BTfZiD-WQCP44UE7NQ/view?usp=sharing
 
 
 
